@@ -1,7 +1,7 @@
 var data = document.getElementById("data");
 var Latitude;
 var Longitude;
-var key = "061148ba192e7b43e1d51475a4de51ab";
+var key = "------Put Your Own Key-----";
 var url = "http://api.openweathermap.org/data/2.5/weather?";
 
 function getLocation(){
