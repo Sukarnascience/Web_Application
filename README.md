@@ -5,5 +5,5 @@ Using:- HTML/CSS/JS Language
 ## Projects List:-
 this is the list of the project which are completed\
 * Weather Application 
- *All in one code `mainMargeAllcode.html` you can just use this also
+ *All in one code `mainMargeAllcode.html` you can just use this also\
  *If you need supprate supprate then that is also avalable `JSPage.js`,`MainPage.html`,`PageStyle.css`
